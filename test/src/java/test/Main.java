@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         float a;
         float l, s;
-        int h;
+        int h, asdasd;
     }
     
 }
