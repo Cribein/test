@@ -18,7 +18,6 @@ public class Main {
         float a;
         float l, s;
         int h;
-        float nie;
     }
     
 }
